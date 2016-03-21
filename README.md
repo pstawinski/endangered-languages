@@ -88,6 +88,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 ##Massive Dictionary and Lexicography projects
 * [ABVD](http://language.psy.auckland.ac.nz/austronesian/) Austronesian Basic Vocabulary Database
 * [CBOLD](http://www.cbold.ish-lyon.cnrs.fr/) Comparative Bantu OnLine Dictionary
+* [Glosbe](https://glosbe.com) Multilingual dictionary that aims to cover all languages
 * [IE](http://ielex.mpi.nl./) Indo-european comparative lexical resource
 * [REFLEX](http://www.reflex.cnrs.fr/) a comparative dictionary project for Africa based out of CNRS in France.
 * [Southeast Asian lexicography](http://sealang.net/) Several Southeast Asian lexicons hosted.
